@@ -1,0 +1,5 @@
+# vendor
+vendor/*
+
+# test
+k6.js
